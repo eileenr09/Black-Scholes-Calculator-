@@ -15,6 +15,7 @@ In this model, we use the “Greeks” (Delta, Gamma, Theta, Vega), which are ri
 Some may ask why we need Gamma if it's related to Delta. It’s the same reason why we have acceleration even though velocity already exists. Even though they are related, they both help us determine different scenarios. Delta is defined as the first derivative (rate of change), and Gamma is the second derivative (the rate of change of the rate of change). 
 
 **Theta:** Shows the rate of change in the option price with respect to time. How does time decay affect the option price?
+
 **Vega:** Indicated the rate of change in the option price with respect to the volatility.
 
 Implied Volatility can be determined when given a market price. This is crucial for understanding market expectations of future volatility.
