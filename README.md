@@ -1,4 +1,4 @@
-# HackHers 2025: Black-Scholes-Calculator
+# 2025: Black-Scholes-Calculator
 
 **Introduction:**
 This Black-Scholes Option Pricing Model is a crucial tool in financial derivatives trading. It shows the priced options, computed Greeks, analyzes sensitivities and visualizes the results.
